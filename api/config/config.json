@@ -3,7 +3,7 @@
     "username": "root",
     "password": "Jc55bo78ri*",
     "database": "escola_ingles",
-    "host": "127.0.0.1",
+    "host": "54.82.75.80",
     "dialect": "mysql"
   },
   "test": {
